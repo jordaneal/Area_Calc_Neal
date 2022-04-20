@@ -40,7 +40,7 @@ namespace Area_Calc_Neal
 
             //if (stringValues.TryGetValue(input, out int output))
             //{
-            //    return MultiplyInts(output, output);
+            //    return MultiplyInts(output);
             //}
 
             return -1;
