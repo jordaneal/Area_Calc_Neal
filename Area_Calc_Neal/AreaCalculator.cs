@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Area_Calc_Neal
+﻿namespace Area_Calc_Neal
 {
     static public class AreaCalculator
     {
