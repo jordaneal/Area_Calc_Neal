@@ -47,7 +47,7 @@
         }
         static public double GetCircleDiameter(int one)
         {
-            return (double)one * 2;
+            return MultiplyInts(one, 2);
         }
         static public double MultiplyInts(int input)
         {
